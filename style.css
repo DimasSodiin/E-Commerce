@@ -283,7 +283,6 @@ ul{
 .about .user{
     text-align: center;
     padding: 70px 100px;
-    box-shadow: 0 0 10px 0px rgba(0, 0,0, 1);
     cursor: pointer;
     margin-bottom: 30px;
 }
@@ -305,6 +304,7 @@ ul{
     padding-top: 100px;
 }
 .contact h2{
+    padding-bottom: 30px;
     text-align: center;
     color: #555555;
 }
